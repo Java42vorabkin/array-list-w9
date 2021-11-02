@@ -113,7 +113,7 @@ public class ArrayList<T> implements List<T> {
 				remove(i);
 			}
 		}
-		
+ 		
 		return oldSize > size;
 	}
 	@Override
